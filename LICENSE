@@ -1,0 +1,15 @@
+FoxOS V2 Binary License
+
+You are allowed to download and use the OS.bin file on your own ESP32-S3 hardware.
+
+You are not allowed to:
+redistribute the binary
+modify the binary
+reverse engineer or decompile the binary
+view or access the source code
+create derivative works
+claim ownership of any part of FoxOS V2
+
+All rights are reserved by the author. (Aharshi Deb)
+
+Have fun :D
